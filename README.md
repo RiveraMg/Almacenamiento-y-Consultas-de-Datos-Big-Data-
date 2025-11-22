@@ -4,7 +4,7 @@
 Este proyecto implementa una base de datos en MongoDB para gestionar información sobre instituciones educativas del departamento del Atlántico, Colombia. Incluye operaciones CRUD básicas, consultas con filtros avanzados y análisis estadísticos mediante agregaciones.
 
 ## Dataset
-**Fuente de datos:** https://www.datos.gov.co/api/v3/views/7tec-5fhs/query.json
+**Fuente de datos:** https://www.datos.gov.co/Educaci-n/Listado-de-Instituciones-Educativas-Oficiales-y-No/7tec-5fhs/about_data
 
 El dataset contiene información detallada sobre instituciones educativas incluyendo ubicación, tipo de establecimiento, niveles educativos, jornadas, infraestructura y servicios especializados.
 
