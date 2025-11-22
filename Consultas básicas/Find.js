@@ -1,0 +1,1 @@
+db.instituciones.find({ "Estado": { $regex: "ACTIVO" } });
